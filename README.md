@@ -20,11 +20,11 @@ This application helps Pierre track each order that each vendor purchased from h
 
 * clone this repository onto your local machine in preferred directory
 
-* Navigate to ``` PierreBakery.Solution/PierreBakery.Tests ``` in terminal then run commands ``` dotnet restore ``` & ``` dotnet test `` to test functionality 
+* Navigate to ``` PierreBakery.Solution/PierreBakery.Tests ``` in terminal then run commands ``` dotnet restore ``` Then ``` dotnet test ```  to test functionality 
 
 * Navigate to ``` PierreBakery.Solution/PierreBakery ``` in terminal 
 
-* Run command ``` dotnet restore ``` 
+* Run command ``` dotnet restore ``` in terminal 
 
 * Run command ``` dotnet run ``` in terminal to launch live server
 
