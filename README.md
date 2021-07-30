@@ -1,5 +1,7 @@
 ## Pierre's Bakery Vendor Order Tracker
 
+By Gurshan Kaile
+
 ## Description 
 
 This application helps Pierre track each order that each vendor purchased from his Bakery
@@ -10,7 +12,7 @@ This application helps Pierre track each order that each vendor purchased from h
 * NuGet
 * Markdown
 * MStest
-* Json
+* JSON
 
 ## Setup & Installation Requirements
 
@@ -18,7 +20,7 @@ This application helps Pierre track each order that each vendor purchased from h
 
 * Downlaod [.NET 5.0 SDK for MacOs](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.205-macos-x64-installer)
 
-* clone this repository onto your local machine in preferred directory
+* Clone this repository onto your local machine in preferred directory
 
 * Navigate to ``` PierreBakery.Solution/PierreBakery.Tests ``` in terminal then run commands ``` dotnet restore ``` Then ``` dotnet test ```  to test functionality 
 
